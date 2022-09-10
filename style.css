@@ -1,0 +1,58 @@
+.goat{
+  background-image: url("photos/download.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  width: 400px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
+.cat{
+  background-image: url("photos/YSAFj4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  width: 400px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
+.bee{
+  background-image: url("photos/bee-flowers-pattern_1191-1014.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  width: 400px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
+.guitar{
+  background-image: url("photos/guitar-18697786.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  width: 400px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
+.electrick-guitar{
+  background-image: url("photos/electric-guitar-silhouette-design-free-vector.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  width: 400px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
+.flute{
+  background-image: url("photos/a3f8745f495f7d18690099dd821c9d0d.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  width: 400px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
+.content{
+  padding-top: 60px;
+  padding-left: 20px;
+}
